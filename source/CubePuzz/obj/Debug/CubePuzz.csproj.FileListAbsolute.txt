@@ -1,0 +1,23 @@
+C:\Documents and Settings\jhook\My Documents\Visual Studio 2008\Projects\CubePuzz\CubePuzz\obj\Debug\CubePuzz.exe
+C:\Documents and Settings\jhook\My Documents\Visual Studio 2008\Projects\CubePuzz\CubePuzz\obj\Debug\CubePuzz.pdb
+C:\Documents and Settings\jhook\My Documents\Visual Studio 2008\Projects\CubePuzz\CubePuzz\bin\Debug\CubePuzz.exe
+C:\Documents and Settings\jhook\My Documents\Visual Studio 2008\Projects\CubePuzz\CubePuzz\bin\Debug\CubePuzz.pdb
+C:\Documents and Settings\jhook\My Documents\Visual Studio 2008\Projects\CubePuzz\CubePuzz\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jhook\My Documents\Visual Studio 2008\Projects\CubePuzz\CubePuzz\obj\Debug\Cube.CubeForm.resources
+C:\Documents and Settings\jhook\My Documents\Visual Studio 2008\Projects\CubePuzz\CubePuzz\obj\Debug\CubePuzz.Properties.Resources.resources
+C:\Documents and Settings\jhook\My Documents\Visual Studio 2008\Projects\CubePuzz\CubePuzz\obj\Debug\CubePuzz.csproj.GenerateResource.Cache
+D:\_my_source\source_mine\090300_cube_puzzle\source_CubePuzz_c\CubePuzz\CubePuzz\obj\Debug\Cube.CubeForm.resources
+D:\_my_source\source_mine\090300_cube_puzzle\source_CubePuzz_c\CubePuzz\CubePuzz\obj\Debug\CubePuzz.Properties.Resources.resources
+D:\_my_source\source_mine\090300_cube_puzzle\source_CubePuzz_c\CubePuzz\CubePuzz\obj\Debug\CubePuzz.csproj.GenerateResource.cache
+D:\_my_source\source_mine\090300_cube_puzzle\source_CubePuzz_c\CubePuzz\CubePuzz\obj\Debug\CubePuzz.csproj.CoreCompileInputs.cache
+D:\_my_source\source_mine\090300_cube_puzzle\source_CubePuzz_c\CubePuzz\CubePuzz\obj\Debug\CubePuzz.exe
+D:\_my_source\source_mine\090300_cube_puzzle\source_CubePuzz_c\CubePuzz\CubePuzz\obj\Debug\CubePuzz.pdb
+D:\_my_source\source_mine\090300_cube_puzzle\source_CubePuzz_c\CubePuzz\CubePuzz\bin\Debug\CubePuzz.exe
+D:\_my_source\source_mine\090300_cube_puzzle\source_CubePuzz_c\CubePuzz\CubePuzz\bin\Debug\CubePuzz.pdb
+D:\_my_source\source_mine\090300_cube_puzzle\source_CubePuzz_c\CubePuzz\CubePuzz\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\_my_source\source_mine\090300_cube_puzzle\source_CubePuzz_c\CubePuzz\CubePuzz\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+D:\_my_source\source_mine\090300_cube_puzzle\source_CubePuzz_c\CubePuzz\CubePuzz\bin\Debug\Microsoft.DirectX.dll
+D:\_my_source\source_mine\090300_cube_puzzle\source_CubePuzz_c\CubePuzz\CubePuzz\bin\Debug\Microsoft.DirectX.xml
+D:\_my_source\source_mine\090300_cube_puzzle\source_CubePuzz_c\CubePuzz\CubePuzz\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\_my_source\source_mine\090300_cube_puzzle\source_CubePuzz_c\CubePuzz\CubePuzz\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+D:\_my_source\source_mine\090300_cube_puzzle\source_CubePuzz_c\CubePuzz\CubePuzz\obj\Debug\CubePuzz.csproj.CopyComplete

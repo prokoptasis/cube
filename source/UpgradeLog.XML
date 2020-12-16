@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CubePuzz">
+</Property><Property Name="솔루션 파일" Value="C:\Documents and Settings\jhook\My Documents\Visual Studio 2008\Projects\CubePuzz\CubePuzz.sln">
+</Property><Property Name="Date" Value="2009년 3월 2일 월요일">
+</Property><Property Name="Time" Value="오후 12:45">
+</Property></Properties><Event ErrorLevel="0" Project="CubePuzz" Source="CubePuzz\CubePuzz.csproj" Description="프로젝트를 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="CubePuzz" Source="CubePuzz\CubePuzz.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CubePuzz.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="CubePuzz.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CubePuzz" Source="CubePuzz\CubePuzz.csproj" Description="검사 완료: 프로젝트 파일을 업그레이드할 필요가 없습니다.">
+</Event></UpgradeLog>
